@@ -26,14 +26,10 @@ JavaScript (for interactivity and theme toggle)
 
 📸 Preview
 
-![full](https://github.com/user-attachments/assets/c9b8dd22-df92-476f-953f-ac0395e41966)
+![Uploading full.jpeg…]()
 
-<img width="1344" height="686" alt="home-section" src="https://github.com/user-attachments/assets/2068594a-b3c9-4ef2-9e2e-48f703b70d3b" />
+![Uploading Screenshot_13-7-2025_134117_127.0.0.1.jpeg…]()
 
-![Screenshot_13-7-2025_134117_127 0 0 1](https://github.com/user-attachments/assets/b9bb05ab-d39e-465c-a820-d5150f4a40d6)
-
-
-<img width="1348" height="433" alt="footer-section" src="https://github.com/user-attachments/assets/48ac1c12-7edb-4265-8eaf-05f255755168" />
 
 💡 What I Learned
 While building this project, I strengthened my knowledge in:
