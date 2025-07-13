@@ -26,9 +26,19 @@ JavaScript (for interactivity and theme toggle)
 
 📸 Preview
 
-![Uploading full.jpeg…]()
+![full](https://github.com/user-attachments/assets/4cce23e5-ee56-41ec-9160-e3301e9573dd)
 
-![Uploading Screenshot_13-7-2025_134117_127.0.0.1.jpeg…]()
+![Screenshot_13-7-2025_134117_127 0 0 1](https://github.com/user-attachments/assets/b726c629-689c-4d18-b21b-9ee941a8b329)
+
+<img width="1344" height="686" alt="home-section" src="https://github.com/user-attachments/assets/d85ce98b-835d-483d-a574-d6ff5bf03a7a" />
+
+<img width="1344" height="686" alt="home-section" src="https://github.com/user-attachments/assets/4cb168fc-0843-4ef4-8ea0-406e32b08514" />
+
+<img width="1350" height="658" alt="About-section" src="https://github.com/user-attachments/assets/f5e81d27-76dc-4f69-b55a-9e32587e4be8" />
+
+<img width="1352" height="755" alt="Skill-section" src="https://github.com/user-attachments/assets/8b7f6d45-e568-46ad-9efb-d184aef0f6bc" />
+
+<img width="1348" height="433" alt="footer-section" src="https://github.com/user-attachments/assets/e98ebdb5-0eeb-44fe-8c25-3440157815d0" />
 
 
 💡 What I Learned
